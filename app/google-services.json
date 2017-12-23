@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "313282199722",
+    "firebase_url": "https://uietnotification.firebaseio.com",
+    "project_id": "uietnotification",
+    "storage_bucket": "uietnotification.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:313282199722:android:9320a56c540687b2",
+        "android_client_info": {
+          "package_name": "gupta.anubhav.com.uietnotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "313282199722-ks2o99er2ps2pnlfb21p0ol5dgu63dl7.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "gupta.anubhav.com.uietnotification",
+            "certificate_hash": "745e5f3cfe61752c9aced8b8f6b7a66366d3f148"
+          }
+        },
+        {
+          "client_id": "313282199722-uircsmk2dp9k5bdm8f96a5g8okl52ncb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD2dKZeJBqHsUyjR7_zWMjQmUynp8tQuG0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "313282199722-uircsmk2dp9k5bdm8f96a5g8okl52ncb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
